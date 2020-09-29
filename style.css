@@ -1,0 +1,13 @@
+body {
+    background-size: cover;
+}
+
+div.background{
+    background_color: white;
+    margin: 3%;
+    padding: 2%;
+}
+
+h1{
+    text-align: center;
+}
